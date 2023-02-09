@@ -16,6 +16,19 @@
     "login": [
         
         ],
+    "books": [
+    {
+      "bookImg": "https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418__480.jpg",
+      "name": "csj",
+      "author": "shekhar",
+      "genre": "Tech",
+      "edition": "2020",
+      "publisher": "csjoshi",
+      "price": "108",
+      "borrowed": "true",
+      "id": 1
+    }
+  ]
      "dogs": [
       {
         "id": 1,
