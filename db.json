@@ -18,7 +18,7 @@
         ],
     "books": [
     {
-      "bookImg": "https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418__480.jpg",
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYvAjHJDCtVwr_jZMEHHZkpEQnYCsPZilVw&usqp=CAU",
       "name": "csj",
       "author": "shekhar",
       "genre": "Tech",
@@ -27,6 +27,50 @@
       "price": "108",
       "borrowed": "true",
       "id": 1
+    },
+        {
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYvAjHJDCtVwr_jZMEHHZkpEQnYCsPZilVw&usqp=CAU",
+      "name": "csj2",
+      "author": "shekhar2",
+      "genre": "Tech",
+      "edition": "2021",
+      "publisher": "csjoshi2",
+      "price": "1082",
+      "borrowed": "true",
+      "id": 2
+    },
+        {
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYvAjHJDCtVwr_jZMEHHZkpEQnYCsPZilVw&usqp=CAU",
+      "name": "csj3",
+      "author": "shekhar3",
+      "genre": "Tech",
+      "edition": "2019",
+      "publisher": "csjoshi3",
+      "price": "1089",
+      "borrowed": "true",
+      "id": 3
+    },
+        {
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3Bm2OtnoZPRpHrc8EkzD9Ktxsb6gXhhiVg&usqp=CAU",
+      "name": "csj4",
+      "author": "shekhar4",
+      "genre": "Tech",
+      "edition": "2019",
+      "publisher": "csjoshi",
+      "price": "1080",
+      "borrowed": "true",
+      "id": 4
+    },
+        {
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3Bm2OtnoZPRpHrc8EkzD9Ktxsb6gXhhiVg&usqp=CAU",
+      "name": "csj5",
+      "author": "shekhar8",
+      "genre": "Tech",
+      "edition": "2019",
+      "publisher": "csjoshi7",
+      "price": "10877",
+      "borrowed": "true",
+      "id": 5
     }
   ],
      
